@@ -10,6 +10,9 @@ Git hub Essentials
 7a) Save your local file in the local folder.
 7b) Enter : git commit -m<your comment regarding the file/update>
 7c) git push (it may ask you the password of your github account)
+8. Then you can share that repository with your collaborators. 
+9. To update your local folder type “git pull” on the terminal (make sure you are in your local folder in the terminal).
+10.) There is a method to work on the same copy of the “master”, which is called “branch”.
 
 
 
