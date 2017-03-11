@@ -12,7 +12,8 @@ Git hub Essentials
 7c) git push (it may ask you the password of your github account)
 8. Then you can share that repository with your collaborators. 
 9. To update your local folder type “git pull” on the terminal (make sure you are in your local folder in the terminal).
-10.) There is a method to work on the same copy of the “master”, which is called “branch”.
+10.) There is a method to work on the same copy of the “master”, which is called “branch”. We can use “git checkout <branch name>” to switch between branches.
+11.) Once the branches are reviewed the owner can edit the “master” or he/she can merge the corresponding “branch” to the master.
 
 
 
