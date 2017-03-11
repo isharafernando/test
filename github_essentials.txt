@@ -1,0 +1,15 @@
+Git hub Essentials
+
+1. Create a git hub account.
+2. Create a Repository with README (This README is an optional)
+3. Using the terminal, create a folder in your home directory.
+4. Navigate to that home folder using the terminal.
+5. Enter : git clone <your repository web address (just copy and paste)>
+6. Now your local folder is synchronized with the github repository.
+7. You can work on a file in your local folder and push it to the repository using the following steps.
+7a) Save your local file in the local folder.
+7b) Enter : git commit -m<your comment regarding the file/update>
+7c) git push (it may ask you the password of your github account)
+
+
+
